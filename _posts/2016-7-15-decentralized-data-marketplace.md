@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Decentralized data marketplace
+description: "I am proposing my idea of a new blockchain-based application"
+tags: [ethereum, smart contracts, bitcoin, blockchain, solidity, steem]
+categories: [Cryptocurrencies]
 ---
 
-Hi everybody! I would like to discuss with you my idea about a new blockchain-based application. It may be not new, maybe I simply have not found it. Please let me know your thoughts, criticize me. Any feedback is welcome.
+Hi everybody! I would like to discuss with you my idea of a new blockchain-based application. It may be not new, maybe I simply have not found it. Please let me know your thoughts, criticize me. Any feedback is welcome.
 
 It is inspired by <a href="https://steem.io/">STEEM</a>. STEEM has proven that the distribution of monetary incentives can be well organized by using blockchain. For the first time in history, people directly received payments for their data of quality.
 
