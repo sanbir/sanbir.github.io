@@ -4,13 +4,10 @@ title: What is Steemit and why you should join it right now (if you haven't)
 description: "I will tell you about my recent experience with Steemit"
 tags: [steemit, blockchain, steem, social media, passive income]
 categories: [Cryptocurrencies]
-image:
-    feature: steem.png
-    credit: steem.io
-    creditlink: https://steem.io/images/steem.png
 ---
 
-
+![steem Image]({{ site.url }}/images/steem.png)
+{: .image-right}
 
 <h2>Greedy mainstream social media</h2>
 
@@ -18,7 +15,7 @@ image:
 
 <h2>Decentralized social platforms</h2>
 
-<p>Blockchain technology, as a means for decentralized money transfer as well as data transfer looks to be a very attractive alternative to the giants that currently dominate the social media market. Rumors about decentralized social networks have been circulating among blockchain enthusiasts for quite some time. Although, I did not learn about the nuances, I am aware at least of one project trying to implement this idea - <a href="http://social.synereo.com/">Synereo. But I have not heard that they have launched anything yet.</p>
+<p>Blockchain technology, as a means for decentralized money transfer as well as data transfer looks to be a very attractive alternative to the giants that currently dominate the social media market. Rumors about decentralized social networks have been circulating among blockchain enthusiasts for quite some time. Although, I did not learn about the nuances, I am aware at least of one project trying to implement this idea - <a href="http://social.synereo.com/">Synereo. But I have not heard that they have launched anything yet.</a></p>
 
 <h2>My story</h2>
 
@@ -44,7 +41,7 @@ image:
 
 <h2>Get connected</h2>
 
-<p>Steemit has no referral program I am aware of. However, if you joined Steemit after this introduction and earned some money, I would be happy if you check out my blog at <a href="https://steemit.com/@sanbir">https://steemit.com/@sanbir</a> and upvote my posts. This way I receive a little money and you will be guaranteed not to lose anything and even have a chance to receive money too (if other people also like what you liked). Moreover, I will upvote one post of everyone who upvoted this post (which, in turn, will add some money to those people).</p>
+<p>Steemit has no referral program I am aware of. However, if you joined Steemit after this introduction and earned some money, I would be happy if you check out my blog at <a href="https://steemit.com/@sanbir">https://steemit.com/@sanbir</a> and upvote my posts. This way I receive a little money and you will be guaranteed not to lose anything and even have a chance to receive money too (if other people also like what you liked). Moreover, I will upvote one post of everyone who upvoted <a href="https://steemit.com/steemit/@sanbir/what-is-steemit-and-why-you-should-join-it-right-now-if-you-haven-t">this post</a> (which, in turn, will add some money to those people).</p>
 
 <h2>Thank you!</h2>
 
