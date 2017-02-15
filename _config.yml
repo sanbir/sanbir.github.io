@@ -1,17 +1,15 @@
 title:            Alex Biryukov
 description:      This is my personal blog
-
 # put your disqus here
 disqus_shortname: abiryukov
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png # logo visible in the topbar
-excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
 url: 
-# http://localhost:4000/
+# http://localhost:4000
  http://abiryukov.com
 
 # draw your top menu here
@@ -42,7 +40,7 @@ owner:
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter:
+twitter: 
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
@@ -54,7 +52,6 @@ social:
     url: "https://www.youtube.com/channel/UCrcNJMiiZCK5v5rGMJitcjw"
   - title: "steem"
     url: "https://steemit.com/@sanbir"
-
 # Background image to be tiled on all pages
 background:
 
@@ -70,6 +67,8 @@ locale:      en_US
 future:      true
 highlighter: rouge
 markdown:    kramdown
+gems:
+  - jekyll-sitemap
 sass:
   sass_dir: _sass
   style: compressed
@@ -83,6 +82,20 @@ paginate: 5
 # if true, shows the floatting share buttons
 float_share: true
 
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: true
+
+  coderay:
+    coderay_line_numbers: nil
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
 # Octopress
 # Default extensions
 post_ext: md
@@ -94,6 +107,5 @@ page_layout: page
 titlecase: true
 
 include: [".htaccess"]
-exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 gems: [jekyll-paginate]
-theme: neo-hpstr-jekyll-theme
