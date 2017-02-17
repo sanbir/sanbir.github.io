@@ -31,7 +31,7 @@ owner:
   name:           Alex Biryukov
   site:           http://abiryukov.com
   avatar:         images/avatar.jpg
-  bio:            "I am a software developer. I am experienced in full-stack .NET, Web, MS SQL Server. Currently, my passion is blockchain-based technologies."
+  bio:            "Alex is a software developer. He is experienced in full-stack .NET, Web, MS SQL Server. Currently, his passion is blockchain-based technologies."
   email:          alex@abiryukov.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: _AlexBiryukov_ # if no twitter in this config, the twitter follow button will be removed
