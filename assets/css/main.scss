@@ -26,3 +26,17 @@ sitemap: false
 @import "animations";
 @import "dl-menu";
 @import "page";
+
+/* Steemit button */
+ul.social-buttons li a {
+	transition: all 0.2s ease;
+}
+ul.social-buttons li a svg{
+	transition: all 0.2s ease;
+	fill: #fff;
+}
+ul.social-buttons li a:hover svg{
+	transition: all 0.2s ease;
+	fill: #222;
+}
+
